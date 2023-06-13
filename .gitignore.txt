@@ -1,5 +1,2 @@
-build/
 
-dist/
-
-dia_namorados.spec
+dia_namorados_executavel.exe
