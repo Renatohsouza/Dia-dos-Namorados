@@ -1,2 +1,1 @@
-
-dia_namorados_executavel.exe
+*.exe
