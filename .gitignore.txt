@@ -1,0 +1,3 @@
+build
+dist
+dia_namorados.espec
