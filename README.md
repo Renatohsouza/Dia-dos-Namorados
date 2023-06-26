@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/118791991/214748282-e80e102c-a6cd-4f3c-b971-b675e3f79e26.png" width="150" height="180">
 </div>
 
-## Repositório criado com o intuito de mostrar meu código, onde utilizei a biblioteca Tkinter para criar uma interface simples com botôes e ações, utilizando a linguagem Python e os conhecimentos estudados. 👨‍🏫
+## Repositório criado com o intuito de mostrar meu código, onde utilizei a biblioteca Tkinter para criar uma interface simples com botões e ações, utilizando a linguagem Python e os conhecimentos estudados. 👨‍🏫
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Rnt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
